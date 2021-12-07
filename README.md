@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @minhkhang1008
+- 👀 I’m interested in python, AI. If you are the same, connect with me.
+- 🌱 I’m currently learning python. I'm very noob, if you are good in Python, teach me!
+- I live in Ho Chi Minh city of Vietnam.
